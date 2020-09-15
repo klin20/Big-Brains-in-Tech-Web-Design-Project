@@ -1,0 +1,36 @@
+.list {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: auto;
+	padding-top: 30px;
+	padding-bottom: 30px
+}
+
+.list li {
+	flex-basis: 210px;
+	list-style-type: none;
+	list-style-image: none;
+	align-content: center;
+  	border-radius: 15px;
+  	padding: 10px;
+  	margin-bottom: 5px;
+  	margin-right: 10px;
+  	background-color: #111111;
+  	text-align: center;
+}
+
+.menu li:hover{
+	background-color: #333940;
+}
+
+.menu a.is-current{
+	text-shadow: 2px 2px 3px #00ffff;
+}
+
+
+@media (max-width: 400px){
+	.list{
+		display: block
+	}
+}
