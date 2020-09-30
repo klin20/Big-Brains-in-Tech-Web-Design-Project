@@ -14,4 +14,4 @@ Final web design and development project for CSC 170 at the University of Roches
 
 2. Start server with PHP
 
-3. Navigate to index.html
+3. Navigate to index.php
