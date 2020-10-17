@@ -1,4 +1,4 @@
-# csc170_final_project
+# Big Brains in Tech
 Final web design and development project for CSC 170 at the University of Rochester
 
 <strong>Prerequisites</strong>
